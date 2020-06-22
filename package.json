@@ -1,0 +1,25 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Discord Bot Reaction",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "dev:watch": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Sebax89/BotDiscord.git)"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js"
+  ],
+  "author": "Sebax89",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
