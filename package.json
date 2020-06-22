@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "node ./src/index.js",
     "dev:watch": "nodemon ./src/index.js",
-    "start" : "node index.js",
+    "start" : "node src/index.js",
   },
   "repository": {
     "type": "git",
