@@ -2,11 +2,11 @@
   "name": "discordbot",
   "version": "1.0.0",
   "description": "Discord Bot Reaction",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
-    "start" : "node src/index.js",
-    "dev:watch": "nodemon src/index.js"
+    "dev": "node index.js",
+    "start" : "node index.js",
+    "dev:watch": "nodemon index.js"
   },
   "repository": {
     "type": "git",
